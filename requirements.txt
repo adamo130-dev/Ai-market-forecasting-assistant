@@ -1,0 +1,12 @@
+streamlit
+yfinance
+pandas
+numpy
+plotly
+textblob
+scikit-learn
+feedparser
+beautifulsoup4
+reportlab
+groq
+requests
